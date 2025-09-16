@@ -109,7 +109,7 @@ export default function LarePortfolio() {
             >
               <div className="w-full max-w-md rounded-2xl p-6 bg-white/5 backdrop-blur-md shadow-2xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80"
+                  src="C:/Users/User/Pictures/WhatsApp Image 2025-07-23 à 07.52.55_fda0e21e.jpg"
                   alt="Portrait"
                   
                   className="w-full rounded-xl object-cover h-64"
