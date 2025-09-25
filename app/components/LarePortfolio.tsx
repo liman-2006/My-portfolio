@@ -50,7 +50,7 @@ export default function LarePortfolio() {
           </div>
 
           <nav className="hidden md:flex gap-6 text-slate-200">
-            <a href="#about" className="hover:text-orange-400">À propos</a>
+            <a href="/propos" className="hover:text-orange-400">À propos</a>
             <a href="#projects" className="hover:text-orange-400">Projets</a>
             <a href="#skills" className="hover:text-orange-400">Compétences</a>
             <a href="#contact" className="hover:text-orange-400">Contact</a>
@@ -109,9 +109,10 @@ export default function LarePortfolio() {
             >
               <div className="w-full max-w-md rounded-2xl p-6 bg-white/5 backdrop-blur-md shadow-2xl">
                 <Image
-                  src="C:/Users/User/Pictures/WhatsApp Image 2025-07-23 à 07.52.55_fda0e21e.jpg"
+                  src="/leman.jpg"
                   alt="Portrait"
-                  
+                  width={300}
+                  height={300}
                   className="w-full rounded-xl object-cover h-64"
                 />
                 <div className="mt-4">
